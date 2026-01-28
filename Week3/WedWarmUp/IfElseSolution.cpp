@@ -17,6 +17,8 @@ int main() {
     cout << "Enter your username: ";
     cin >> username;                            // TODO
 
+    cout << "Your username is: " << username << endl;
+
     // Compare Integers
     if (age >= 18) {                            // TODO
         cout << "You are an adult." << endl;
@@ -26,7 +28,7 @@ int main() {
     }
 
     // Substring example
-    // username = JalynnNicoly
+    // username = Jalynn
     string firstThree = username.substr(0, 3);  // TODO
     // firstThree = Jal
     cout << "The first three letters of your username is: " << firstThree << endl;

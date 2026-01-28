@@ -9,6 +9,7 @@ int main() {
     // Assign a
     // int a = 10;
     int a;
+    cout << "prompt";
     cin >> a;
 
     // Assign b

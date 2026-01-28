@@ -12,7 +12,6 @@ int main() {
     // if (floor > 13) { // Original
     // if (floor = 13) { // Start without flags then add them in
     // if (floor = "12") { // Start without flags then add them in
-    // if (4 = 4) {
     // -o
 
     if (floor > 13) {
