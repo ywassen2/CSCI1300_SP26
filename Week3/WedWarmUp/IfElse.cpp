@@ -21,6 +21,9 @@ int main() {
     }
     else {
         cout << "You are not an adult." << endl;
+
+    if (age <=13) {
+        cout <<"You are a teenager." << endl;
     }
 
     // Substring example
